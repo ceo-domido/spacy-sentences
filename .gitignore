@@ -1,0 +1,21 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+spacy_app
+
+# CMake build directory
+/build/
+
+# Temporary files
+*.tmp
+*.log
+
+# Go specific
+*.out
+*.test
+*.mod
+*.sum
+vendor/
